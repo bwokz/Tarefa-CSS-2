@@ -1,0 +1,30 @@
+#perfil{
+    width: 282px; ;
+    height: 269px; ;
+    border: 2px solid;
+    border-radius: 50%;
+    margin-left: 450px;
+}
+#body{
+    background-color: #011724;
+}
+#tituloname{
+    color:  #FFFF;
+    margin-left:  670px; ;
+}
+#subtitle{
+    color: #06FAFA ;
+    margin-left: 560px;
+}
+.caixadefotos{
+    background-color: #FFFF;
+    padding: 10px; ;
+    margin-left: 265px;
+    width: 67%;
+    border-radius: 5%;
+    border: 5px solid #06FAFA;
+}
+#sobremim{
+    margin-left:  550px; ;
+    color: #00008B ;
+}
